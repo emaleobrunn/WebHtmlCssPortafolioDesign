@@ -158,7 +158,7 @@ input, select, textarea {
 	}
 	
 	#headerLogo{
-		text-align: center;
+		text-align: center ;
 		
 	}
 
@@ -173,6 +173,7 @@ input, select, textarea {
 		margin: 0 0 1em 0;
 		letter-spacing: -0.035em;
 		text-align: center;
+		font-family: "Montserrat", sans-serif ;
 	}
 
 		h1 a {
@@ -2861,9 +2862,9 @@ input, select, textarea {
 
 /* Header */
 
-	#header {
-		padding: 8em 0 0.1em 0 ;
-	}
+	
+
+	
 
 		#header .logo {
 			display: block;
@@ -2875,6 +2876,8 @@ input, select, textarea {
 			text-decoration: none;
 			text-transform: uppercase;
 			display: inline-block;
+			padding-top: 50px;
+			
 		}
 
 			#header .logo > * {
